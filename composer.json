@@ -1,0 +1,20 @@
+{
+    "name": "cantet/string-calculator-php",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "mockery/mockery": "dev-master"
+    },
+    "license": "ISC",
+    "autoload": {
+        "psr-4": {
+            "Kata\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thibaut Cantet",
+            "email": "thibaut.cantet@gmail.com"
+        }
+    ]
+}
